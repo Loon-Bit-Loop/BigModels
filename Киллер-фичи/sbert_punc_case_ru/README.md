@@ -22,7 +22,7 @@
 
 
 
-![Описание](https://github.com/Loon-Bit-Loop/ml_developments_first/blob/main/sbert_punc_case_ru/screen/demo1.png)
+![Описание](https://github.com/Loon-Bit-Loop/BigModels/blob/main/%D0%9A%D0%B8%D0%BB%D0%BB%D0%B5%D1%80-%D1%84%D0%B8%D1%87%D0%B8/sbert_punc_case_ru/screen/demo1.png)
 
 Результат работы модели
 
