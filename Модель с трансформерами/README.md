@@ -2,11 +2,11 @@
 
 ## Предобработка предоставленного датасета
 
-Содержится в [блокноте]("notebooks/preprocessing.ipynb").
+Содержится в [блокноте]("https://github.com/Loon-Bit-Loop/BigModels/blob/main/Модель с трансформерами/notebooks/preprocessing.ipynb").
 
 ## Обучение классификаторов
 
-Содержится в [блокноте]("notebooks/cls2.ipynb").
+Содержится в [блокноте]("https://github.com/Loon-Bit-Loop/BigModels/blob/main/Модель с трансформерами/notebooks/cls2.ipynb").
 
 Обучались 3 классифкатора для категорий "Исполнитель", "Группа тем", "Тема".
 
