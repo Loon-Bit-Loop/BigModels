@@ -26,3 +26,6 @@
 ![Описание](https://github.com/Loon-Bit-Loop/ml_developments_first/blob/main/sbert_punc_case_ru/screen/demo1.png)
 
 Результат работы модели
+
+<a href='https://drive.google.com/file/d/1LoHC3pD3tXHqni0EbGDjKayj-P8cZWt4/view?usp=sharing'> Скачайте</a> модель из Google Drive и поместите в папку проекта.
+Запустите файл playing_with_model.py:
