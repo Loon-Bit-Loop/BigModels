@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 from tqdm import tqdm
 
 # Загрузка обработанного датасета
-processed_data_path = 'processed_train_dataset.csv'
+processed_data_path = '../DataWork/processed_train_dataset.csv'
 processed_data = pd.read_csv(processed_data_path)
 
 # Замена NaN значений пустой строкой

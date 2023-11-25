@@ -5,7 +5,7 @@ from sklearn.svm import SVC
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics import classification_report
 
-processed_data = pd.read_csv('processed_train_dataset.csv')
+processed_data = pd.read_csv('../DataWork/processed_train_dataset.csv')
 
 X = processed_data['Текст инцидента']
 y = processed_data['Тема']  # Или другая категория для классификации

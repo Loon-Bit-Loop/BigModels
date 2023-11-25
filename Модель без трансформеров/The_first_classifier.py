@@ -5,7 +5,7 @@ from sklearn.metrics import classification_report, f1_score
 from sklearn.model_selection import train_test_split
 import matplotlib.pyplot as plt
 
-processed_data = pd.read_csv('processed_train_dataset.csv')
+processed_data = pd.read_csv('../DataWork/processed_train_dataset.csv')
 
 processed_data['Текст инцидента'].fillna('', inplace=True)
 
